@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "668911d2532cf0a6f3a9fd18"
+  },
+  "fullName": "Muhammad Asim",
+  "email": "muhammadasim4927@gmail.com",
+  "whatsappNumber": "03125818370",
+  "cnicNumber": "37405-7627992-9",
+  "gender": "Male",
+  "country": "Pakistani",
+  "formalPicture": "uploads\\262cab68c463288c06df9238f4af68c9",
+  "__v": 0
+}]
